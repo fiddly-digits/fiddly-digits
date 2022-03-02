@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+
+
+- 🌱 I’m currently learning Swift!
+- 🔭 I’m currently working on TMDB App!
+- ⚡ Fun fact: I love Pokemon with all my heart! <img src="https://emojis.slackmojis.com/emojis/images/1643514062/186/pokeball.png" width="15" height="15">
+
 <!--
 **fiddly-digits/fiddly-digits** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
